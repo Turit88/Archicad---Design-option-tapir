@@ -1,5 +1,7 @@
 Design Options – a Tapir script
 
+[[short demonstration video]](https://drive.google.com/file/d/1NHCoykfa_kJKe_9bnLVnAQ9ualfQGTlB/view?usp=sharing)
+
 Copy tab
 - Copies the selected elements into one or more design options in one step.
 - Optional: move the original to the first ticked option and copy it to the rest.
@@ -23,3 +25,5 @@ Requirements and limits
 
 
 Idea: Tamás Túri – coded with Claude Opus 5.5 (Anthropic). Free to use and modify, provided the original author is credited.
+
+
